@@ -2,7 +2,7 @@
 title: Checked Arithmetic Opcodes
 description: Adds opcodes for addition, subtraction, multiplication, and division that revert on overflow, underflow, or division by zero
 author: Hubert Ritzdorf (@ritzdorf)
-discussions-to: https://ethereum-magicians.org/t/hegota-proposal-checked-arithmetic-opcodes/27913
+discussions-to: https://ethereum-magicians.org/t/eip-8219-checked-arithmetic-opcodes/27913
 status: Draft
 type: Standards Track
 category: Core
